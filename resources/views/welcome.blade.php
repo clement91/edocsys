@@ -87,7 +87,10 @@
                     Electronic Document System
                 </div>
                 <div class="links">
-                    <p>This application created for prototype purpose to allow users upload, authenticate and authorize documents.</p>
+                    <p>This application created for prototype usage to allow users upload, authenticate and authorize documents.</p>
+                </div>
+                <div class="links">
+                    <p>Author, Developer: Clement Chooi @ 10 April, 2020</p>
                 </div>
                 <!--
                   <div class="links">

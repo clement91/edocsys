@@ -1,6 +1,6 @@
 # edocsys
 Electronic Document System
-Author, Developer: Clement Chooi
+- Author, Developer: Clement Chooi
 
 
 
